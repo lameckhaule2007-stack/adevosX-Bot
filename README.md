@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/bdwqa7.jpg" alt="Adevos-X Tech" width="300"/>
+  <img src="https://files.catbox.moe/szt2zv.png" alt="Adevos-X Tech" width="300"/>
 </p>
 
 <p align="center">
