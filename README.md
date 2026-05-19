@@ -8,7 +8,7 @@
   </a>
 
   <a href="https://github.com/adevosxtech/adevosX-Bot">
-    <img src="https://img.shields.io/badge/Fork_Repo-Adevos--X--Bot-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo" width="220">
+    <img src="https://img.shields.io/badge/Fork_Repo-Adevos--X--Bot-green?style=for-the-badge&logo=github&logoColor=green" alt="Fork Repo" width="220">
   </a>
 
   <a href="https://github.com/adevosxtech/adevosX-Bot/archive/refs/heads/main.zip">
