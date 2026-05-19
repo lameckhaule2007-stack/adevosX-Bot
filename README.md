@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://adevosxsession.onrender.com">
-    <img src="https://img.shields.io/badge/Pair_Code-Get_Your_Code-purple?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pair Code" width="220">
+    <img src="https://img.shields.io/badge/Pair_Code-Get_Your_Code-green?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Pair Code" width="220">
   </a>
 
   <a href="https://github.com/adevosxtech/adevosX-Bot">
